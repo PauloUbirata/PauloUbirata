@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @PauloUbirata
-- 👀  I'm interested in starting in programming, working as an intern..
-- 🌱 I am currently studying systems development at the National Industrial Learning Service (SENAI) and I am learning JAVASCRIPT,HTML,CSS,PHP,MYSQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi meu nome é Paulo Ubiratã
+- 👀 Tenho interesse em iniciar na área de programação/tecnologia, trabalhando como estagiário...
+- 🌱Atualmente estou cursando desenvolvimento de sistemas no SENAI e Interdisciplinar em Ciência e Tecnologia na UFBA e estou aprendendo JAVASCRIPT, HTML,CSS, PHP, MYSQL...
+- 💞️ Nos trabalhos e projetos é utilizado as metodologias ágeis com a função de desenvolvimento e aprimoramento do serviço.
+- 📫Como chegar até mim: Melhor forma de contato é pelo e-mail pauloubirata2010@gmail.com. Pelo meu número (71)982212808.
+
+- Tem poucos projetos, mas estou adicionando 
 
 <!---
 PauloUbirata/PauloUbirata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
